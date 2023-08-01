@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ee/21/b6/ee21b6f99f0effacee7f97699144b5f3.gif" alt="Welcome Banner" />
+<img src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/04d00848-231f-4f7c-ae56-3be7537649c8" alt="Welcome Banner" />
 
 
 <h1>Hello, I'm diego and feel free to take a look at my projects</h1>
