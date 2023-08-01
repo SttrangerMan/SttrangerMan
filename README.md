@@ -1,14 +1,27 @@
-<img src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/04d00848-231f-4f7c-ae56-3be7537649c8" alt="Welcome Banner" />
+<div align="center" border="1px solid red">
+  <h1 >Hello, I'm Diego and feel free to take a look at my projects</h1>
+  
+  <img src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/04d00848-231f-4f7c-ae56-3be7537649c8" alt="Welcome Banner" />
+</div>
 
+<section>
+  <h2>🌐 Socials</h2>
+  <a target="_blank" href="https://linkedin.com/in/https://www.linkedin.com/in/diego-alexandre-a49653268/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="Linkedin Logo"/></a>
+</section>
+<!-- ## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-alexandre-a49653268/)  -->
 
-<h1>Hello, I'm diego and feel free to take a look at my projects</h1>
+<section>
+<h2>💻 Tech Stack:</h2>
+  <div >
+    <img heigth="60" width="60" src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/4f8a2680-e585-4af2-9412-835dafbcda23" alt="Html Logo" />
+    <img heigth="60" width="60" src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/4183d450-7262-4a12-9457-d14ea608087f" alt="CSS Logo" />
+    <img heigth="60" width="60" src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/a917f503-d230-4fa6-8e74-a029901b5b50" alt="Javascript Logo" />
+    <img heigth="60" width="60" src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/c1edc20d-8997-477a-8e02-1f083d6b0740" alt="React Logo" />
+    <img heigth="60" width="60" src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/e3f29c23-2db1-4d44-970c-e71f169ab144" alt="SASS Logo" />
+  </div>  
+</section>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/diego-alexandre-a49653268/) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SttrangerMan&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SttrangerMan&theme=vue-dark&hide_border=false)<br/>
