@@ -1,5 +1,5 @@
 <div align="center";>
-  <h1 >Hello, I'm Diego and feel free to take a look at my projects</h1>
+  <h1 >Hello I'm Diego, feel free to take a look at my projects</h1>
   
   <img src="https://github.com/SttrangerMan/SttrangerMan/assets/119461294/04d00848-231f-4f7c-ae56-3be7537649c8" alt="Welcome Banner" />
 </div>
